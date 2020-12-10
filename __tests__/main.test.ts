@@ -1,4 +1,4 @@
-import { Delays, greeter } from '../src/main';
+/* import { Delays, greeter } from '../src/main';
 
 describe('greeter function', () => {
   // Read more about fake timers
@@ -29,3 +29,4 @@ describe('greeter function', () => {
     expect(hello).toBe(`Hello, ${name}`);
   });
 });
+*/
