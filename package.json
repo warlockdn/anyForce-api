@@ -19,7 +19,7 @@
   "author": "WarlockD <warlockdn@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "@sentry/node": "^5.13.0",
+    "@sentry/node": "^5.30.0",
     "body-parser": "^1.19.0",
     "compression": "^1.7.4",
     "cookie-parser": "^1.4.4",
